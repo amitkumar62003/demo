@@ -5,4 +5,5 @@ hgwud
 2nd edit in feature 1
 
 edit in master
+edit in master after creating feature1
 
